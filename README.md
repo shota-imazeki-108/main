@@ -1,1 +1,4 @@
-# 作業格納用リポジトリ　＊メモ書き含む
+## workspace: machine-lerning and so on
+- code
+- docs
+- tool
